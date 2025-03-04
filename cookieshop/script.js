@@ -8,7 +8,8 @@ function hideShow() {
       footer.style.display = "none";
       crunch.play();
         music.play();
-} 
+    }
+
     
     else {
 
